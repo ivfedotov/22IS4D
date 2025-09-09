@@ -40,6 +40,13 @@ const news = [
     text:'Описание новости 5',
     button:'link'
   },
+      {
+    id:6,
+    name:'Новость 5',
+    img:'../image1.png',
+    text:'Описание новости 5',
+    button:'link'
+  },
 ]
 
 function App() {
